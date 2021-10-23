@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Explainable Artificial Intelligence to uncover how deep models learn or not.
 - 💞️ I’m looking to collaborate on any topic covering deep learning and computer vision.
 - 📫 How to reach me is so simply, send me a message via LinkedIn or email.
-- https://ahmethaydarornek.github.io
+- Personal website: https://ahmethaydarornek.github.io
 - Check out my youtube videos: https://youtu.be/cuJR9w5z050
 
 <!---
