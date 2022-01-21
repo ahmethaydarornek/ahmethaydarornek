@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ahmethaydarornek
+- 👀 I'm founder of ARTMETA https://www.linkedin.com/company/artmetaai
 - 👀 I’m interested in computer vision and deep learning.
 - 🌱 I’m currently learning Explainable Artificial Intelligence to uncover how deep models learn or not.
 - 💞️ I’m looking to collaborate on any topic covering deep learning and computer vision.
